@@ -1,0 +1,7 @@
+D:\Projects\C# Projects\csharp-basics\drawing-a-shape\drawing-a-shape\bin\Debug\drawing-a-shape.exe.config
+D:\Projects\C# Projects\csharp-basics\drawing-a-shape\drawing-a-shape\bin\Debug\drawing-a-shape.exe
+D:\Projects\C# Projects\csharp-basics\drawing-a-shape\drawing-a-shape\bin\Debug\drawing-a-shape.pdb
+D:\Projects\C# Projects\csharp-basics\drawing-a-shape\drawing-a-shape\obj\Debug\drawing-a-shape.csproj.AssemblyReference.cache
+D:\Projects\C# Projects\csharp-basics\drawing-a-shape\drawing-a-shape\obj\Debug\drawing-a-shape.csproj.CoreCompileInputs.cache
+D:\Projects\C# Projects\csharp-basics\drawing-a-shape\drawing-a-shape\obj\Debug\drawing-a-shape.exe
+D:\Projects\C# Projects\csharp-basics\drawing-a-shape\drawing-a-shape\obj\Debug\drawing-a-shape.pdb

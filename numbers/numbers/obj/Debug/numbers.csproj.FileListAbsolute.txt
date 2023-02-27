@@ -1,0 +1,7 @@
+D:\Projects\C# Projects\csharp-basics\numbers\numbers\bin\Debug\numbers.exe.config
+D:\Projects\C# Projects\csharp-basics\numbers\numbers\bin\Debug\numbers.exe
+D:\Projects\C# Projects\csharp-basics\numbers\numbers\bin\Debug\numbers.pdb
+D:\Projects\C# Projects\csharp-basics\numbers\numbers\obj\Debug\numbers.csproj.AssemblyReference.cache
+D:\Projects\C# Projects\csharp-basics\numbers\numbers\obj\Debug\numbers.csproj.CoreCompileInputs.cache
+D:\Projects\C# Projects\csharp-basics\numbers\numbers\obj\Debug\numbers.exe
+D:\Projects\C# Projects\csharp-basics\numbers\numbers\obj\Debug\numbers.pdb

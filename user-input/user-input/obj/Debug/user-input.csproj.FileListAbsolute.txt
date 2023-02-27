@@ -1,0 +1,7 @@
+D:\Projects\C# Projects\csharp-basics\user-input\user-input\bin\Debug\user-input.exe.config
+D:\Projects\C# Projects\csharp-basics\user-input\user-input\bin\Debug\user-input.exe
+D:\Projects\C# Projects\csharp-basics\user-input\user-input\bin\Debug\user-input.pdb
+D:\Projects\C# Projects\csharp-basics\user-input\user-input\obj\Debug\user-input.csproj.AssemblyReference.cache
+D:\Projects\C# Projects\csharp-basics\user-input\user-input\obj\Debug\user-input.csproj.CoreCompileInputs.cache
+D:\Projects\C# Projects\csharp-basics\user-input\user-input\obj\Debug\user-input.exe
+D:\Projects\C# Projects\csharp-basics\user-input\user-input\obj\Debug\user-input.pdb

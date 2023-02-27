@@ -1,0 +1,7 @@
+D:\Projects\C# Projects\csharp-basics\static-methods-classes\static-methods-classes\bin\Debug\static-methods-classes.exe.config
+D:\Projects\C# Projects\csharp-basics\static-methods-classes\static-methods-classes\bin\Debug\static-methods-classes.exe
+D:\Projects\C# Projects\csharp-basics\static-methods-classes\static-methods-classes\bin\Debug\static-methods-classes.pdb
+D:\Projects\C# Projects\csharp-basics\static-methods-classes\static-methods-classes\obj\Debug\static-methods-classes.csproj.CoreCompileInputs.cache
+D:\Projects\C# Projects\csharp-basics\static-methods-classes\static-methods-classes\obj\Debug\static-methods-classes.exe
+D:\Projects\C# Projects\csharp-basics\static-methods-classes\static-methods-classes\obj\Debug\static-methods-classes.pdb
+D:\Projects\C# Projects\csharp-basics\static-methods-classes\static-methods-classes\obj\Debug\static-methods-classes.csproj.AssemblyReference.cache

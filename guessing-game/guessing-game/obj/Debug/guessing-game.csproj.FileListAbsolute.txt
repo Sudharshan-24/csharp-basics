@@ -1,0 +1,7 @@
+D:\Projects\C# Projects\csharp-basics\guessing-game\guessing-game\bin\Debug\guessing-game.exe.config
+D:\Projects\C# Projects\csharp-basics\guessing-game\guessing-game\bin\Debug\guessing-game.exe
+D:\Projects\C# Projects\csharp-basics\guessing-game\guessing-game\bin\Debug\guessing-game.pdb
+D:\Projects\C# Projects\csharp-basics\guessing-game\guessing-game\obj\Debug\guessing-game.csproj.CoreCompileInputs.cache
+D:\Projects\C# Projects\csharp-basics\guessing-game\guessing-game\obj\Debug\guessing-game.exe
+D:\Projects\C# Projects\csharp-basics\guessing-game\guessing-game\obj\Debug\guessing-game.pdb
+D:\Projects\C# Projects\csharp-basics\guessing-game\guessing-game\obj\Debug\guessing-game.csproj.AssemblyReference.cache

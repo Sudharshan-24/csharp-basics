@@ -1,0 +1,7 @@
+D:\Projects\C# Projects\csharp-basics\constructors\constructors\bin\Debug\constructors.exe.config
+D:\Projects\C# Projects\csharp-basics\constructors\constructors\bin\Debug\constructors.exe
+D:\Projects\C# Projects\csharp-basics\constructors\constructors\bin\Debug\constructors.pdb
+D:\Projects\C# Projects\csharp-basics\constructors\constructors\obj\Debug\constructors.csproj.AssemblyReference.cache
+D:\Projects\C# Projects\csharp-basics\constructors\constructors\obj\Debug\constructors.csproj.CoreCompileInputs.cache
+D:\Projects\C# Projects\csharp-basics\constructors\constructors\obj\Debug\constructors.exe
+D:\Projects\C# Projects\csharp-basics\constructors\constructors\obj\Debug\constructors.pdb

@@ -1,0 +1,7 @@
+D:\Projects\C# Projects\csharp-basics\mad-libs-game\mad-libs-game\bin\Debug\mad-libs-game.exe.config
+D:\Projects\C# Projects\csharp-basics\mad-libs-game\mad-libs-game\bin\Debug\mad-libs-game.exe
+D:\Projects\C# Projects\csharp-basics\mad-libs-game\mad-libs-game\bin\Debug\mad-libs-game.pdb
+D:\Projects\C# Projects\csharp-basics\mad-libs-game\mad-libs-game\obj\Debug\mad-libs-game.csproj.AssemblyReference.cache
+D:\Projects\C# Projects\csharp-basics\mad-libs-game\mad-libs-game\obj\Debug\mad-libs-game.csproj.CoreCompileInputs.cache
+D:\Projects\C# Projects\csharp-basics\mad-libs-game\mad-libs-game\obj\Debug\mad-libs-game.exe
+D:\Projects\C# Projects\csharp-basics\mad-libs-game\mad-libs-game\obj\Debug\mad-libs-game.pdb

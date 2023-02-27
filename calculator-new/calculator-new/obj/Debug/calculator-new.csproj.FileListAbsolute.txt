@@ -1,0 +1,6 @@
+D:\Projects\C# Projects\csharp-basics\calculator-new\calculator-new\bin\Debug\calculator-new.exe.config
+D:\Projects\C# Projects\csharp-basics\calculator-new\calculator-new\bin\Debug\calculator-new.exe
+D:\Projects\C# Projects\csharp-basics\calculator-new\calculator-new\bin\Debug\calculator-new.pdb
+D:\Projects\C# Projects\csharp-basics\calculator-new\calculator-new\obj\Debug\calculator-new.csproj.CoreCompileInputs.cache
+D:\Projects\C# Projects\csharp-basics\calculator-new\calculator-new\obj\Debug\calculator-new.exe
+D:\Projects\C# Projects\csharp-basics\calculator-new\calculator-new\obj\Debug\calculator-new.pdb

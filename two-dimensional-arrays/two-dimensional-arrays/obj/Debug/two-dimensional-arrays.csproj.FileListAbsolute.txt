@@ -1,0 +1,7 @@
+D:\Projects\C# Projects\csharp-basics\two-dimensional-arrays\two-dimensional-arrays\bin\Debug\two-dimensional-arrays.exe.config
+D:\Projects\C# Projects\csharp-basics\two-dimensional-arrays\two-dimensional-arrays\bin\Debug\two-dimensional-arrays.exe
+D:\Projects\C# Projects\csharp-basics\two-dimensional-arrays\two-dimensional-arrays\bin\Debug\two-dimensional-arrays.pdb
+D:\Projects\C# Projects\csharp-basics\two-dimensional-arrays\two-dimensional-arrays\obj\Debug\two-dimensional-arrays.csproj.AssemblyReference.cache
+D:\Projects\C# Projects\csharp-basics\two-dimensional-arrays\two-dimensional-arrays\obj\Debug\two-dimensional-arrays.csproj.CoreCompileInputs.cache
+D:\Projects\C# Projects\csharp-basics\two-dimensional-arrays\two-dimensional-arrays\obj\Debug\two-dimensional-arrays.exe
+D:\Projects\C# Projects\csharp-basics\two-dimensional-arrays\two-dimensional-arrays\obj\Debug\two-dimensional-arrays.pdb

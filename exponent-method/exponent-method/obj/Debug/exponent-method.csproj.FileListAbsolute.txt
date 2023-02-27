@@ -1,0 +1,7 @@
+D:\Projects\C# Projects\csharp-basics\exponent-method\exponent-method\bin\Debug\exponent-method.exe.config
+D:\Projects\C# Projects\csharp-basics\exponent-method\exponent-method\bin\Debug\exponent-method.exe
+D:\Projects\C# Projects\csharp-basics\exponent-method\exponent-method\bin\Debug\exponent-method.pdb
+D:\Projects\C# Projects\csharp-basics\exponent-method\exponent-method\obj\Debug\exponent-method.csproj.AssemblyReference.cache
+D:\Projects\C# Projects\csharp-basics\exponent-method\exponent-method\obj\Debug\exponent-method.csproj.CoreCompileInputs.cache
+D:\Projects\C# Projects\csharp-basics\exponent-method\exponent-method\obj\Debug\exponent-method.exe
+D:\Projects\C# Projects\csharp-basics\exponent-method\exponent-method\obj\Debug\exponent-method.pdb

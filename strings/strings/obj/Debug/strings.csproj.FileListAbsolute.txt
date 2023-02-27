@@ -1,0 +1,7 @@
+D:\Projects\C# Projects\csharp-basics\strings\strings\bin\Debug\strings.exe.config
+D:\Projects\C# Projects\csharp-basics\strings\strings\bin\Debug\strings.exe
+D:\Projects\C# Projects\csharp-basics\strings\strings\bin\Debug\strings.pdb
+D:\Projects\C# Projects\csharp-basics\strings\strings\obj\Debug\strings.csproj.AssemblyReference.cache
+D:\Projects\C# Projects\csharp-basics\strings\strings\obj\Debug\strings.csproj.CoreCompileInputs.cache
+D:\Projects\C# Projects\csharp-basics\strings\strings\obj\Debug\strings.exe
+D:\Projects\C# Projects\csharp-basics\strings\strings\obj\Debug\strings.pdb

@@ -1,0 +1,7 @@
+D:\Projects\C# Projects\csharp-basics\arrays\arrays\bin\Debug\arrays.exe.config
+D:\Projects\C# Projects\csharp-basics\arrays\arrays\bin\Debug\arrays.exe
+D:\Projects\C# Projects\csharp-basics\arrays\arrays\bin\Debug\arrays.pdb
+D:\Projects\C# Projects\csharp-basics\arrays\arrays\obj\Debug\arrays.csproj.AssemblyReference.cache
+D:\Projects\C# Projects\csharp-basics\arrays\arrays\obj\Debug\arrays.csproj.CoreCompileInputs.cache
+D:\Projects\C# Projects\csharp-basics\arrays\arrays\obj\Debug\arrays.exe
+D:\Projects\C# Projects\csharp-basics\arrays\arrays\obj\Debug\arrays.pdb

@@ -1,0 +1,7 @@
+D:\Projects\C# Projects\csharp-basics\exception-handling\exception-handling\bin\Debug\exception-handling.exe.config
+D:\Projects\C# Projects\csharp-basics\exception-handling\exception-handling\bin\Debug\exception-handling.exe
+D:\Projects\C# Projects\csharp-basics\exception-handling\exception-handling\bin\Debug\exception-handling.pdb
+D:\Projects\C# Projects\csharp-basics\exception-handling\exception-handling\obj\Debug\exception-handling.csproj.AssemblyReference.cache
+D:\Projects\C# Projects\csharp-basics\exception-handling\exception-handling\obj\Debug\exception-handling.csproj.CoreCompileInputs.cache
+D:\Projects\C# Projects\csharp-basics\exception-handling\exception-handling\obj\Debug\exception-handling.exe
+D:\Projects\C# Projects\csharp-basics\exception-handling\exception-handling\obj\Debug\exception-handling.pdb

@@ -1,0 +1,7 @@
+D:\Projects\C# Projects\csharp-basics\for-loop\for-loop\bin\Debug\for-loop.exe.config
+D:\Projects\C# Projects\csharp-basics\for-loop\for-loop\bin\Debug\for-loop.exe
+D:\Projects\C# Projects\csharp-basics\for-loop\for-loop\bin\Debug\for-loop.pdb
+D:\Projects\C# Projects\csharp-basics\for-loop\for-loop\obj\Debug\for-loop.csproj.AssemblyReference.cache
+D:\Projects\C# Projects\csharp-basics\for-loop\for-loop\obj\Debug\for-loop.csproj.CoreCompileInputs.cache
+D:\Projects\C# Projects\csharp-basics\for-loop\for-loop\obj\Debug\for-loop.exe
+D:\Projects\C# Projects\csharp-basics\for-loop\for-loop\obj\Debug\for-loop.pdb

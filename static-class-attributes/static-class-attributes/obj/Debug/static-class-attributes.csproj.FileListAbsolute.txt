@@ -1,0 +1,7 @@
+D:\Projects\C# Projects\csharp-basics\static-class-attributes\static-class-attributes\bin\Debug\static-class-attributes.exe.config
+D:\Projects\C# Projects\csharp-basics\static-class-attributes\static-class-attributes\bin\Debug\static-class-attributes.exe
+D:\Projects\C# Projects\csharp-basics\static-class-attributes\static-class-attributes\bin\Debug\static-class-attributes.pdb
+D:\Projects\C# Projects\csharp-basics\static-class-attributes\static-class-attributes\obj\Debug\static-class-attributes.csproj.AssemblyReference.cache
+D:\Projects\C# Projects\csharp-basics\static-class-attributes\static-class-attributes\obj\Debug\static-class-attributes.csproj.CoreCompileInputs.cache
+D:\Projects\C# Projects\csharp-basics\static-class-attributes\static-class-attributes\obj\Debug\static-class-attributes.exe
+D:\Projects\C# Projects\csharp-basics\static-class-attributes\static-class-attributes\obj\Debug\static-class-attributes.pdb
